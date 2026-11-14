@@ -6,8 +6,6 @@
 
 Building practical mobile experiences and exploring intelligent systems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Arvind-kumar-08&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/Arvind-kumar-08?label=Followers&style=flat)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvind-kumar-058899323/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ak217257@gmail.com)
@@ -46,7 +44,6 @@ Building practical mobile experiences and exploring intelligent systems.
 
 | Project | What it does | Tech |
 | --- | --- | --- |
-| [HiperPulse](https://github.com/sg721642/hiperpulse) | Experimental camera-based pulse estimation with signal-quality checks | Python, FastAPI, SciPy |
 | [Expense Tracker](https://github.com/Arvind-kumar-08/advance_expense_tracker) | Expense tracking and analytics with cloud synchronization | Flutter, Firebase, Hive |
 | [Visitor Management App](https://github.com/Rudragup/lhriskmanagment_flutter) | Visitor check-in/check-out and supervisor workflows | Flutter, Provider, REST APIs |
 
@@ -69,5 +66,14 @@ Building practical mobile experiences and exploring intelligent systems.
 <div align="center">
 
 **Thanks for visiting!** Feel free to explore my repositories or connect with me.
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Arvind-kumar-08&label=Profile%20Views&color=0e75b6&style=flat)
+
+
+### 📈 GitHub Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arvind-kumar-08&theme=github-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+  
 
 </div>
