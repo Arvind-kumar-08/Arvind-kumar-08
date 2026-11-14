@@ -65,15 +65,22 @@ Building practical mobile experiences and exploring intelligent systems.
 
 <div align="center">
 
-**Thanks for visiting!** Feel free to explore my repositories or connect with me.
+**Thanks for visiting!** Feel free to explore my repositories or connect with me.**
 
 
+## 📊 GitHub Activity
+
+### Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arvind-kumar-08&theme=github-dark&hide_border=true)
+
+### GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Arvind-kumar-08&theme=github-dark&hide_border=true)
+
+
+---
+
+### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Arvind-kumar-08&label=Profile%20Views&color=0e75b6&style=flat)
-
-
-### 📈 GitHub Activity
-
-[![Arvind's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arvind-kumar-08&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
   
 
