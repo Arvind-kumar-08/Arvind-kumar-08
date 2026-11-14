@@ -46,40 +46,7 @@ Building practical mobile experiences and exploring intelligent systems.
 | --- | --- | --- |
 | [Expense Tracker](https://github.com/Arvind-kumar-08/advance_expense_tracker) | Expense tracking and analytics with cloud synchronization | Flutter, Firebase, Hive |
 | [Visitor Management App](https://github.com/Rudragup/lhriskmanagment_flutter) | Visitor check-in/check-out and supervisor workflows | Flutter, Provider, REST APIs |
-
-## GitHub Activity
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arvind-kumar-08&show_icons=true&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Arvind-kumar-08&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind-kumar-08&layout=compact&theme=github_dark&hide_border=true)
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Arvind-kumar-08&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting!** Feel free to explore my repositories or connect with me.**
-
-
-## 📊 GitHub Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arvind-kumar-08&theme=github-dark)
-
-### GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Arvind-kumar-08&theme=github-dark&hide_border=true)
-
-
----
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Arvind-kumar-08&label=Profile%20Views&color=0e75b6&style=flat)
-
-  
 
 </div>
