@@ -69,9 +69,7 @@ Building practical mobile experiences and exploring intelligent systems.
 
 
 ## 📊 GitHub Activity
-
-### Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arvind-kumar-08&theme=github-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arvind-kumar-08&theme=github-dark)
 
 ### GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Arvind-kumar-08&theme=github-dark&hide_border=true)
