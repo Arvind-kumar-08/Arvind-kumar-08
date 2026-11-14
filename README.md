@@ -73,7 +73,8 @@ Building practical mobile experiences and exploring intelligent systems.
 
 ### 📈 GitHub Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arvind-kumar-08&theme=github-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Arvind's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arvind-kumar-08&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
   
 
 </div>
